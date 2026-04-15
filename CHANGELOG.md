@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/mpxw/mpxw-go-github-release-demo/compare/v1.0.1...v1.0.2) (2026-04-15)
+
+
+### 🐛 Bug Fixes
+
+* fix github-action go-version ([886d12b](https://github.com/mpxw/mpxw-go-github-release-demo/commit/886d12bdb96e9a7ee1cef94ced93ea7cf0e5b766))
+
 ## [1.0.1](https://github.com/mpxw/mpxw-go-github-release-demo/compare/v1.0.0...v1.0.1) (2026-04-15)
 
 
