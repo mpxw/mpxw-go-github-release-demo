@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/mpxw/mpxw-go-github-release-demo/compare/v1.0.0...v1.0.1) (2026-04-15)
+
+
+### 🧰 Maintenance
+
+* add goreleaser ([73592b4](https://github.com/mpxw/mpxw-go-github-release-demo/commit/73592b493d24300d7bfe1de132d39048445dd9b4))
+
 ## 1.0.0 (2026-04-15)
 
 
